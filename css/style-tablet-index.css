@@ -1,0 +1,75 @@
+
+    .lenguages-container{
+        display: block;
+        position: relative;
+        background-image: url("../assets/images/wikipedia-logo-v2.png");
+        background-repeat: no-repeat;
+        background-size: 20rem;
+        background-position: center;
+        width: 54rem;
+        max-width: 54rem;
+        height: 32rem;
+    }
+    .o1{
+        order: 2;
+        width: 100%;
+    }
+    .o2{
+        order: 1;
+        width: 100%;
+    }
+    .o3{
+        order: 3;
+        width: 100%;
+    }
+    .card{
+        width: 14rem;
+        position: absolute;
+    }
+    .lang1{
+        top: 0;
+        right: 60%;
+    }
+    .lang2{
+        top: 0;
+        left: 60%;
+    }
+    .lang3{
+        top: 20%;
+        right: 70%;
+    }
+    .lang4{
+        top: 20%;
+        left: 70%;
+    }
+    .lang5{
+        top: 40%;
+        right: 75%;
+    }
+    .lang6{
+        top: 40%;
+        left: 75%;
+    }
+    .lang7{
+        top: 60%;
+        right: 70%;
+    }
+    .lang8{
+        top: 60%;
+        left: 70%;
+    }
+    .lang9{
+        top: 80%;
+        right: 60%;
+    }
+    .lang10{
+        top: 80%;
+        left: 60%;
+    }
+    .form-container{
+        padding: 0;
+    }
+    
+    .footer__grid{
+        grid-template-columns: repeat(3, 1fr);
+    }
